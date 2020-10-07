@@ -1,6 +1,5 @@
 ![logo](logo.png)
-[![version](https://img.shields.io/badge/version-v1.0.0-informational)](https://orcid.org/0000-0002-4117-2541)
-[![orcid](https://img.shields.io/badge/orcid-0000--0002--4117--2541-informational?logo=orcid)](https://orcid.org/0000-0002-4117-2541)
+![version](https://img.shields.io/badge/version-v1.0.0-informational?style=for-the-badge)
 
 ## Object instance and event annotation tool 
 
